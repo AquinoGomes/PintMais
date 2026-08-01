@@ -1,0 +1,6 @@
+{
+  "name": "Orçamento Pintura",
+  "description": "Calculadora de materiais e custos de mão de obra para orçamentos de pintura residencial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
